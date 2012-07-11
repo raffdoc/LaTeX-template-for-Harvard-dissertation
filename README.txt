@@ -14,7 +14,7 @@ leifer@fas.harvard.edu
 
 The HarvardThesis package provides all of files needed to support the production and typesetting of a PhD thesis at Harvard. 
 
-Note: As of Summer 2012, this template has been used successfully by at least a handful of PhD students at Harvard. Their theses were accepted by the registrar and they received their PhDs.
+Note: As of Summer 2012, this template has been used successfully by at least a handful of PhD students at Harvard whose theses were accepted and who graduated.
 
 ****Installation***
 
