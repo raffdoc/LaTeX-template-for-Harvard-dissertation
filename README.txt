@@ -7,7 +7,7 @@ please contact me at suchow {at} fas.harvard.edu.
 
 Modified by Andrew Leifer, August 2011
 http://andrewleifer.com
-leifer@fas.harvard.edu
+andrew.leifer@post.harvard.edu
 
 
 
