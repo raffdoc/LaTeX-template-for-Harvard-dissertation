@@ -50,11 +50,12 @@ http://mirror.unl.edu/ctan/systems/mac/mactex/MacTeX.mpkg.zip
 it should be roughly 2 GB
 Install.
 
-I use the free PDF reader Skim and the non-free editor TextMate. Both integrate well with latex:
+I use the free PDF reader Skim and the now free and open source TextMate. Both integrate well with latex:
 
 Skim is available http://skim-app.sourceforge.net/
 Set Skim->Preferences->Sync to the Preset "TextMate." You can command-shift-click in the PDF to pull up a line in the code in Textmate.
 
+Textmate is here: https://github.com/textmate/textmate
 Now to setup TextMate, go to the Bundle->LaTex->Preferences and choose xelatex and Skim respectively.
 Then go to Bundles->Latex-> File Preferences -> Set Master file and select your master file.. thesis.tex
 
