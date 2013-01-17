@@ -10,11 +10,19 @@ http://andrewleifer.com
 leifer@fas.harvard.edu
 
 
+
 *** An introduction ***
 
 The HarvardThesis package provides all of files needed to support the production and typesetting of a PhD thesis at Harvard. 
 
 Note: As of Summer 2012, this template has been used successfully by at least a handful of PhD students at Harvard whose theses were accepted and who graduated.
+
+For an example of a completed and accepted Harvard Thesis using this template, see:
+https://github.com/aleifer/dissertation   (source code)
+http://dash.harvard.edu/bitstream/handle/1/9276708/Leifer_gsas.harvard_0084L_10388.pdf  (compiled pdf)
+
+
+
 
 ****Installation***
 
